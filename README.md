@@ -1,1 +1,1 @@
-# Ai-Negotiation-FBMP-Bot
+# Offer-up-Ai-Bots
